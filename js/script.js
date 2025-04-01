@@ -3,13 +3,24 @@ const navMenu = document.querySelector(".nav-menu");
 hamburger.addEventListener("click", mobileMenu);
 
 
-window.onload = function () { 
+window.onload = function () {
   const savedTheme = localStorage.getItem("theme") || "light";
-  if (savedTheme === "light"){ 
-    setMoonIcon()
-  } else {
-    setlightIcon()
-  }
+  if (savedTheme === "light") setMoonIcon()
+  else setlightIcon()
+
+  fetch("data/changelog.txt")
+    .then((response) => response.text())
+    .then((data) => {
+      const changelogContainer = document.querySelector(".changelog-content ul");
+      const versions = data.trim().split("\n");
+
+      versions.forEach((version) => {
+        const li = document.createElement("li");
+        li.innerHTML = `<strong>${version.split(" - ")[0]}</strong> - ${version.split(" - ")[1]}`;
+        changelogContainer.appendChild(li);
+      });
+    })
+    .catch((error) => console.error("Error loading changelog:", error));
 
 };
 
@@ -19,7 +30,7 @@ function mobileMenu() {
 }
 
 // Close navbar when link is clicked
-const navLink = document.querySelectorAll(".nav-link"); 
+const navLink = document.querySelectorAll(".nav-link");
 navLink.forEach((n) => n.addEventListener("click", closeMenu));
 
 function closeMenu() {
@@ -32,23 +43,23 @@ const toggleSwitch = document.querySelector(
   '.theme-switch input[type="checkbox"]'
 );
 
-function switchTheme(e) { 
+function switchTheme(e) {
   if (e.target.checked) {
-    document.documentElement.setAttribute("data-theme", "dark"); 
+    document.documentElement.setAttribute("data-theme", "dark");
   } else {
-    document.documentElement.setAttribute("data-theme", "light");  
+    document.documentElement.setAttribute("data-theme", "light");
   }
 }
 
 
-function setlightIcon(){
-  document.querySelector(".sun").style.opacity = "1"; 
-  document.querySelector(".moon").style.opacity = "0";  
+function setlightIcon() {
+  document.querySelector(".sun").style.opacity = "1";
+  document.querySelector(".moon").style.opacity = "0";
 }
 
-function setMoonIcon(){
-  document.querySelector(".sun").style.opacity = "0"; 
-  document.querySelector(".moon").style.opacity = "1";  
+function setMoonIcon() {
+  document.querySelector(".sun").style.opacity = "0";
+  document.querySelector(".moon").style.opacity = "1";
 }
 
 toggleSwitch.addEventListener("change", switchTheme, false);
@@ -56,11 +67,11 @@ toggleSwitch.addEventListener("change", switchTheme, false);
 //  Store color theme for future visits
 
 function switchTheme(e) {
-  if (e.target.checked) { 
+  if (e.target.checked) {
     setlightIcon()
     document.documentElement.setAttribute("data-theme", "dark");
     localStorage.setItem("theme", "dark"); //add this 
-  } else { 
+  } else {
     setMoonIcon()
     document.documentElement.setAttribute("data-theme", "light");
     localStorage.setItem("theme", "light"); //add this 
@@ -86,4 +97,4 @@ if (currentTheme) {
 let myDate = document.querySelector("#datee");
 
 const yes = new Date().getFullYear();
-myDate.innerHTML = yes;
+myDate.innerHTML = yes; 
