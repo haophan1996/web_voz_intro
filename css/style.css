@@ -20,7 +20,7 @@
 
   --bg-navbar: #183254;
   --card-hover: rgba(213, 214, 216, 0.9);
-
+  --main-logo: grayscale(100%) brightness(0%);
   --shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
 
   /* Font Weight */
@@ -52,6 +52,7 @@
 
   --bg-navbar: #132540;
   --card-hover: rgba(0, 0, 0, 0.8);
+  --main-logo: grayscale(100%) brightness(1000%);
 }
  
  
@@ -156,9 +157,11 @@ body {
 }
 
 .profile-image {
-  width: 150px;
+  width: 20%;
   border-radius: 50%;
-  animation: bounce 1s infinite alternate;
+  animation: rotateBounce 3s ease-in-out infinite;
+  filter: var( --main-logo);
+  /* animation: bounce 1s infinite alternate; */
 }
 
 @keyframes bounce {
