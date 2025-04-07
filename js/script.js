@@ -22,6 +22,9 @@ window.onload = function () {
     })
     .catch((error) => console.error("Error loading changelog:", error));
 
+
+   loadEmojiJson()
+
 };
 
 function mobileMenu() {

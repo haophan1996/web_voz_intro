@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="css/utilities.css" />
   <link rel="stylesheet" href="css/animation.css" />
+  <link rel="stylesheet" href="css/emoji.css" />
 </head>
 
 <body>
@@ -41,7 +42,7 @@
           <li><a class="nav-link" href="#projects">GALLERY</a></li>
           <li><a class="nav-link" href="#footer">CONTACT</a></li>
           <li>
-            <a class="nav-link btn btn-primary" href="#download">Download Now <i class="fas fa-arrow-right"></i></a>
+            <a class="nav-link btn btn-primary" href="#download">Download Now<i class="fas fa-arrow-right"></i></a>
           </li>
 
           <!-- Toggle switch -->
@@ -74,7 +75,7 @@
           The ultimate app for voz.vn – connect, share, and engage faster than ever.
         </p>
       </div>
-      <a href="https://www.paypal.com/donate/?business=U7AZNNXFPN83U&no_recurring=0&item_name=Thank+you+so+much+for+donating+me%2C+chef+kiss&currency_code=USD" class="btn btn-secondary" target="_blank">Buy me a coffe</a>
+      <a href="https://www.paypal.com/donate/?business=U7AZNNXFPN83U&no_recurring=0&item_name=Thank+you+so+much+for+donating+me%2C+chef+kiss&currency_code=USD" class="btn btn-secondary" target="_blank">Buy me a cup of coffee</a>
     </section>
   </header>
 
@@ -151,6 +152,20 @@
     <a href="#" class="btn btn-secondary" target="_blank">See More <i class="fas fa-arrow-right"></i></a>
   </section>
 
+  <!-- Emoji Section -->
+  <section id="emojiLibrary" class="emoji-container container">
+    <div class="division"></div>
+    <div class="content-text">
+      <h2>Emoji Library</h2>
+      <p>Add awesome emoji into APP</p>
+    </div>
+    <div class="emoji-content">
+      <ul id="emojiList">
+        <!-- We will load emoji data from text and append into this -->
+      </ul>
+    </div>
+  </section>
+
   <!-- Download Section -->
   <section id="download" class="download-container container">
     <div class="division"></div>
@@ -159,7 +174,7 @@
       <p>Get the latest version of the VozVN app on your device.</p>
     </div>
     <div class="download-links"> 
-      <a href="#" class="btn btn-secondary" target="_blank">Download APK for Android</a>
+      <a href="/apk/vozvn.apk" class="btn btn-secondary" target="_blank">Download APK for Android</a>
     </div>
   </section>
 
@@ -198,6 +213,7 @@
     </div>
   </footer>
   <script src="js/script.js"></script>
+  <script src="js/emoji_fetch.js"></script>
 </body>
 
 </html>
