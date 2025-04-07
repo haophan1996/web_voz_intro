@@ -2,7 +2,7 @@ function createEmojiItem(emoji) {
     const li = document.createElement('li');
 
     const img = document.createElement('img');
-    img.src = emoji.sourceURL
+    img.src = emoji.imageHeader
     img.alt = emoji.sourceName;
 
     const nameSpan = document.createElement('span');
