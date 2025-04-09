@@ -26,7 +26,7 @@ function createEmojiItem(emoji) {
 
 
 function loadEmojiJson() {
-    fetch('/emoji_json/_file_list.txt')
+    fetch('/emoji_json/a_file_list.txt')
         .then((response) => response.text())
         .then((data) => {
             const ul = document.getElementById('emojiList');
