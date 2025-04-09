@@ -1,0 +1,798 @@
+{
+    "emoji_source": {
+      "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/pepe_4.json",
+      "sourceName": "Pepe-4",
+      "imageHeader": "https://i.imgur.com/uwooUzw.gif",
+      "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+      "isUnicode": false,
+      "version": 1
+    },
+    "emojis": [
+      {
+        "emoji_url": "https://i.imgur.com/uwooUzw.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/3vNFzBP.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/932JtcE.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/4uKjeyy.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/EKDNzSE.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/ym82GCm.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Pcw7U0g.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/mvZmvB3.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/7Py4i3D.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/O92DbXG.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/VpDnxvp.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/YnoB20F.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/6iUvNCt.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/O9MF8JV.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/SGiIkoI.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/hFYD3lS.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/F2Mue51.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/W67Srkp.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/c3eixZM.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/CYa0754.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/44tsAy2.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/RedbDPj.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/lxJTKjP.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/vz3E3Zb.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/RABuWir.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/XfK7i8q.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/wsGlh1N.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/H53tMOM.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/mZtFEGr.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/pJTht2r.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/AHnya64.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/GIaejLm.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/1Rfo8XV.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/bOkoCjY.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/0ySmSVz.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/HdA4ZVQ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/6k2CPPw.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/3Iy8P2x.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Keaa7zY.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/OcrmEUk.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JOmtNyo.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/BFrZB56.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/sSZJMlJ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/jwaCPIV.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/6qBkKJg.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Tv2qneN.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/vWMpxrE.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/eYaXvAD.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/euPANQE.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Kt9aha1.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JXYqfqJ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/cXtNhuX.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/ep2iGkn.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/hD47z4J.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/2sEEJ51.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/ZRwP0FL.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/TWqlaeX.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/GQwsu6q.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/s70TCPA.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/fJ3F72A.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/7RS0mcb.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/wdaO0HV.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/AQOghEQ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/qKOwrAO.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/SfCBXgR.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/NxTRLSv.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/d3dnPFp.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/uUBJHpr.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/j0LMtG7.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/S20qFj9.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/HTKHEwM.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/mIQA979.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/GfxvrdH.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/nzsQquR.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/h2tqlbi.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/uE7HlQN.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/EbYfSOJ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/PZTIr3t.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JgETfa1.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/SXmKQtJ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/r2uEUBw.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/UX8wbwL.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/WfhBUTi.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/69A1FUt.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/T6F4HD6.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/IIJk9gw.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/s1ewIBN.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/OFlSe28.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/LJvskmN.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/GPGf1HF.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/kf1ZXXQ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/xmIBGBt.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Go7TQhq.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/lWg0TYZ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/wgmMvR3.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/X6Au6OF.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/vx9rPv2.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/BsSLHae.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/e7f8eP0.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/umZxA7M.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JKUUcJY.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/p9t3uPE.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/Z6sd1Iu.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/UtqmZcL.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JDQpZ2z.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/91CZMXe.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/cazCDKn.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/JSuP7Aw.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/CzQhIIL.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/07vOlY2.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/uG5dFwy.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/FDkuUP8.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/cTHBomT.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/jZMRvEI.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/eac1QYo.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/gUX975V.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/dPClfnX.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/NP9FCO5.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/KUgLzYC.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/ML1e0bx.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/31ZBw3D.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/f8tXzio.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/aWgF7y2.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/lwzvIcZ.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/A3TDHAP.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/lWWXgbs.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/4siCzhT.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/cGp5fMt.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/c9sTthk.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/7Av6co4.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      },
+      {
+        "emoji_url": "https://i.imgur.com/j2x9S9E.gif",
+        "emoji_alt": null,
+        "emoji_name": null,
+        "unicode": null
+      }
+    ]
+  }

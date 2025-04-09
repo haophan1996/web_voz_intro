@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Emoji Parser Tool</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    .row {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    input,
+    textarea,
+    button {
+      font-size: 1rem;
+    }
+
+    textarea {
+      width: 100%;
+      height: 150px;
+      resize: vertical;
+    }
+
+    .emoji-container {
+      margin-top: 10px;
+    }
+
+    .emoji-item {
+      display: inline-block;
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+
+    img {
+      max-width: 50px;
+      max-height: 50px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Emoji Parser Tool, <a href="https://imgur.plen.io/" target="_blank">use this website to retrieve all data</a></h2>
+
+  <div class="row">
+    <input id="sourceName" type="text" placeholder="Source Name" style="flex:1;">
+    <input id="jsonFile" type="text" placeholder="Json Name" style="flex:1;">
+    <button onclick="clearText()">Clear</button>
+  </div>
+
+  <!-- Input row -->
+  <div class="row">
+    <input id="emojiInput" type="text" placeholder="Paste JSON file URL or JSON string..." style="flex:1;">
+    <button onclick="parseEmoji()">Parse</button>
+  </div>
+
+  <!-- Output row -->
+  <div class="row">
+    <textarea id="emojiOutput" readonly></textarea>
+    <button onclick="copyOutput()">Copy</button>
+  </div>
+
+  <!-- Emoji Display -->
+  <div id="emojiDisplay" class="emoji-container"></div>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+  <script>
+    function parseEmoji() {
+      const sourceName = document.getElementById("sourceName").value;
+      const json_file = document.getElementById("jsonFile").value;
+      const input = document.getElementById("emojiInput").value;  // Get input value
+      const jsonData = JSON.parse(input);
+      const urls = jsonData[0].result.data.json.split("\n").map(url => url.trim());
+
+      var fileUrl = "https://haophan1996.github.io/web_voz_intro/emoji_json/file.json"
+      if (json_file.length > 0) fileUrl = `https://haophan1996.github.io/web_voz_intro/emoji_json/${json_file}`;
+      // Construct JSON object
+      const emojiSource = {
+        "emoji_source": {
+          "sourceURL": fileUrl,
+          "sourceName": sourceName,
+          "imageHeader": urls[0],  // First URL from input
+          "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+          "isUnicode": false,
+          "version": 1
+        },
+        "emojis": urls.map((url) => ({
+          "emoji_url": url,            // Assign URL to "emoji_url"
+          "emoji_alt": null,           // Default value for "emoji_alt"
+          "emoji_name": null,          // Default value for "emoji_name"
+          "unicode": null              // Default value for "unicode"
+        }))
+      };
+
+      // Output the result in the textarea
+      document.getElementById("emojiOutput").value = JSON.stringify(emojiSource, null, 2);
+    }
+
+    function copyOutput() {
+      const output = document.getElementById("emojiOutput");
+      output.select();
+      document.execCommand("copy");
+    }
+
+    function clearText() {
+      document.getElementById("sourceName").value = "";
+      document.getElementById("jsonFile").value = "";
+      document.getElementById("emojiInput").value = "";
+    }
+  </script>
+
+</body>
+
+</html>
