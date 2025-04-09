@@ -1,2 +1,3 @@
+Version 1.2 - Improved emoji header row to scroll with HorizontalPager
 Version 1.1 - Performance improvement. Bug fix
 Version 1.0 - Initial release.

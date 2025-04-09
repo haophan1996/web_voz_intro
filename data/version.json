@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.1",
+    "latest_version": "1.2",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "changelog": [
-        "Performance improvement. Bug fix"
+        "Improved emoji header row to scroll with HorizontalPager"
     ]
 }
