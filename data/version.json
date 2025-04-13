@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.2",
+    "latest_version": "1.3",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "changelog": [
-        "Improved emoji header row to scroll with HorizontalPager"
+        "Adjust emoji size and fix reply HTML fetch issue."
     ]
 }
