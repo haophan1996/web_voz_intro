@@ -1,3 +1,4 @@
+en.json
 ech_lai_ong.json
 ech_map.json
 ech_xanh.json
@@ -9,6 +10,7 @@ pepe_vang_vang.json
 qoobee_agapi_2.json
 shiba_gif.json
 thang_bua.json
+tho_bay_mau.json
 tho_cute.json
 voz_bua.json
 vozer_no.json
