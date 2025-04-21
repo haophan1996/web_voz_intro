@@ -2,6 +2,6 @@
     "latest_version": "1.4",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "changelog": [
-        "Fix dialog navigation failure. Add experimental bottom app bar and search forum."
+        "1.4 - Fix dialog navigation failure. Add experimental bottom app bar and search forum."
     ]
 }
