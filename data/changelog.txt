@@ -1,4 +1,3 @@
-Version 1.5 - Bug fixes, UI improvements, and a new search feature.
 Version 1.4 - Fix dialog navigation failure. Add experimental bottom app bar and search forum
 Version 1.3 - Adjust emoji size and fix reply HTML fetch issue.
 Version 1.2 - Improved emoji header row to scroll with HorizontalPager
