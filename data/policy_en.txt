@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: April 25, 2025
 
-VOZvn application ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application ([Your App Name], referred to as "the App"). The App is designed to respect your privacy and does not collect personal information unless you choose to provide it.
+VOZvn application ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (VOZvn). The App is designed to respect your privacy and does not collect personal information unless you choose to provide it.
 
 1. Information We Collect
 No Data Collection by Default: The App does not collect, store, or process any personal information or device data unless you explicitly choose to provide it as described below.
@@ -21,23 +21,23 @@ We do not use your information for marketing, analytics, or any other purpose be
 We do not share, sell, or disclose any personal information to third parties, except as required by law or to protect the safety and security of our users and the App.
 
 4. Children’s Privacy
-The App may be used by individuals under 13 years of age. We do not knowingly collect personal information from children under 13 without parental consent. If you are a parent or guardian and believe your child has provided personal information, please contact us at [Your Contact Email], and we will take steps to delete such information.
-
-5. Data Security
-We implement reasonable security measures to protect the limited information we collect (e.g., ID and password) from unauthorized access, use, or disclosure. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
-
-6. Your Choices
+The App is not intended for individuals under 16 years of age. We do not permit users under 16 years of age to use the App and do not collect any personal information from them. 
+ 
+5. Your Choices
 Login Information: You can choose not to log in to the App, in which case no ID or password will be collected.
 
 Storage Permission: You can deny the storage permission request, but this may limit your ability to save images from the App to your device.
 
-7. Changes to This Privacy Policy
+6. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. We encourage you to review this policy periodically.
-
-8. Contact Us
+ 
+7. Contact Us
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 Email: haohphan.work@gmail.com
 Website: https://vozvn.com/
 
 By using the App, you agree to the terms of this Privacy Policy.
+
+
+AGAIN: If you are concerned about data collection, you may opt not to use these features (Login, Save image) to avoid any data collection,
