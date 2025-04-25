@@ -1,0 +1,43 @@
+Chính Sách Bảo Mật
+Cập nhật lần cuối: 25 tháng 4 năm 2025
+
+Ứng dụng VOZvn ("chúng tôi") cam kết bảo vệ quyền riêng tư của bạn. Chính Sách Bảo Mật này giải thích cách chúng tôi xử lý thông tin của bạn khi bạn sử dụng ứng dụng di động của chúng tôi ([Your App Name], được gọi là "Ứng dụng"). Ứng dụng được thiết kế để tôn trọng quyền riêng tư của bạn và không thu thập thông tin cá nhân trừ khi bạn tự nguyện cung cấp.
+
+1. Thông Tin Chúng Tôi Thu Thập
+Không Thu Thập Dữ Liệu Mặc Định: Ứng dụng không thu thập, lưu trữ hoặc xử lý bất kỳ thông tin cá nhân hoặc dữ liệu thiết bị nào trừ khi bạn tự nguyện cung cấp như được mô tả dưới đây.
+
+Đăng Nhập Tùy Chọn: Nếu bạn chọn đăng nhập vào Ứng dụng, bạn sẽ cần cung cấp ID và mật khẩu. Thông tin này chỉ được sử dụng để xác thực quyền truy cập của bạn vào Ứng dụng và được lưu trữ an toàn. Chúng tôi không chia sẻ hoặc sử dụng thông tin này cho bất kỳ mục đích nào khác.
+
+Lưu Hình Ảnh (Quyền Truy Cập Bộ Nhớ): Nếu bạn chọn lưu hình ảnh được tạo hoặc sử dụng trong Ứng dụng, Ứng dụng có thể yêu cầu quyền truy cập vào bộ nhớ ảnh của thiết bị (quyền đọc/ghi) trên thiết bị Android. Quyền này cần thiết để lưu hình ảnh vào thiết bị của bạn và không được sử dụng để truy cập hoặc thu thập bất kỳ dữ liệu nào khác từ thư viện ảnh hoặc bộ nhớ của bạn.
+
+2. Cách Chúng Tôi Sử Dụng Thông Tin Của Bạn
+Thông tin hạn chế mà chúng tôi thu thập (ID, mật khẩu hoặc quyền truy cập bộ nhớ) chỉ được sử dụng để:
+
+Xác thực đăng nhập của bạn, nếu bạn chọn sử dụng tính năng đăng nhập.
+Cho phép lưu hình ảnh vào thiết bị của bạn, nếu bạn cấp quyền truy cập bộ nhớ.
+Chúng tôi không sử dụng thông tin của bạn cho mục đích tiếp thị, phân tích hoặc bất kỳ mục đích nào khác ngoài chức năng của Ứng dụng.
+
+3. Chia Sẻ và Tiết Lộ Dữ Liệu
+Chúng tôi không chia sẻ, bán hoặc tiết lộ bất kỳ thông tin cá nhân nào cho bên thứ ba, trừ khi được yêu cầu bởi pháp luật hoặc để bảo vệ sự an toàn và bảo mật của người dùng và Ứng dụng.
+
+4. Quyền Riêng Tư Của Trẻ Em
+Ứng dụng có thể được sử dụng bởi cá nhân dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi mà không có sự đồng ý của phụ huynh. Nếu bạn là phụ huynh hoặc người giám hộ và tin rằng con bạn đã cung cấp thông tin cá nhân, vui lòng liên hệ với chúng tôi qua [Your Contact Email], và chúng tôi sẽ thực hiện các bước để xóa thông tin đó.
+
+5. Bảo Mật Dữ Liệu
+Chúng tôi áp dụng các biện pháp bảo mật hợp lý để bảo vệ thông tin hạn chế mà chúng tôi thu thập (ví dụ: ID và mật khẩu) khỏi bị truy cập, sử dụng hoặc tiết lộ trái phép “‘. Tuy nhiên, không có phương thức truyền tải hoặc lưu trữ nào là hoàn toàn an toàn, và chúng tôi không thể đảm bảo bảo mật tuyệt đối.
+
+6. Lựa Chọn Của Bạn
+Thông Tin Đăng Nhập: Bạn có thể chọn không đăng nhập vào Ứng dụng, trong trường hợp đó, không có ID hoặc mật khẩu nào sẽ được thu thập.
+
+Quyền Truy Cập Bộ Nhớ: Bạn có thể từ chối yêu cầu quyền truy cập bộ nhớ, nhưng điều này có thể hạn chế khả năng lưu hình ảnh từ Ứng dụng vào thiết bị của bạn.
+
+7. Thay Đổi Chính Sách Bảo Mật Này
+Chúng tôi có thể cập nhật Chính Sách Bảo Mật này theo thời gian. Mọi thay đổi sẽ được đăng trên trang này với ngày "Cập nhật lần cuối" được cập nhật. Chúng tôi khuyến khích bạn xem lại chính sách này định kỳ.
+
+8. Liên Hệ Với Chúng Tôi
+Nếu bạn có bất kỳ câu hỏi hoặc mối quan ngại nào về Chính Sách Bảo Mật này hoặc các hoạt động dữ liệu của chúng tôi, vui lòng liên hệ với chúng tôi qua:
+
+Email: haohphan.work@gmail.com
+Website: https://vozvn.com/
+
+Bằng cách sử dụng Ứng dụng, bạn đồng ý với các điều khoản của Chính Sách Bảo Mật này.
