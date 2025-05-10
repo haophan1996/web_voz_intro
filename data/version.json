@@ -1,7 +1,16 @@
 {
-    "latest_version": "1.5",
+    "latest_version": "1.6",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "changelog": [
-        "Version 1.5 - Bug fixes, UI improvements, and a new search feature."
+"Changelog for Version 1.6:
+- Bug fixes & UI improvements
+- Made the Settings screen simpler and easier to use.
+- Fixed spoilers to show content when clicked
+Feature
+- Added fun animations to some screens.
+- Added Bookmarks and forum search to find posts easily.
+- Included shortcuts to jump to subforums quickly.
+- Added swipe left/right to move between pages.
+- Added dividers and a dynamic theme (Android 12 and up)"
     ]
 }
