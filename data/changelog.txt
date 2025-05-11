@@ -1,3 +1,4 @@
+Version 1.7 - Added new App Shortcuts (Launcher Shortcuts), removed some animations, and more.
 Version 1.6 - Made the Settings screen simpler and easier to use. <br> Added swipe left/right to move between pages. <br>Added dividers and a dynamic theme (Android 12 and up)
 Version 1.5 - Bug fixes, UI improvements, and a new search feature.
 Version 1.4 - Fix dialog navigation failure. Add experimental bottom app bar and search forum
