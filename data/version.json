@@ -3,7 +3,10 @@
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [
-"Changelog for Version 1.8:
+"Changelog for Version 1.9:
+- Swipe left/right to show the Reply Button (#141,#152)
+
+Changelog for Version 1.8:
 
 Bug Fix  
 - Hide keyboard when dialog is dismissed (#89)
@@ -27,7 +30,10 @@ Feature
 - Add full support for GIF animations",
 
 
-"Thay đổi trong phiên bản 1.8:
+"Thay đổi trong phiên bản 1.9:
+- Vuốt trái/phải để hiện nút reply khi viết bài (#141,#152)
+
+Thay đổi trong phiên bản 1.8:
 
 Sửa lỗi
 - Tự động ẩn bàn phím khi không dùng (#89)
