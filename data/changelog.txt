@@ -1,3 +1,4 @@
+Version 1.8 - Bug fixes, UI improvements
 Version 1.8 - Support for Android 9. Upload image to Imgur and more
 Version 1.7 - Added new App Shortcuts (Launcher Shortcuts), removed some animations, and more.
 Version 1.6 - Made the Settings screen simpler and easier to use. <br> Added swipe left/right to move between pages. <br>Added dividers and a dynamic theme (Android 12 and up)
