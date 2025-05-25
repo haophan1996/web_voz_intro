@@ -8,12 +8,11 @@ Bug Fix
 - Ignored posts no longer visible
 - Fixed incorrect bookmark URL
 - Correct title when bookmarking threads
-
-
+ 
 Adjust 
 - Long press arrows to jump to first/last page (#130)
 
-Feature
+New Feature
 - Custom themes support (#116)
 - Second shortcut in the app bar (#180)
 - Refresh button in popup menu
@@ -30,7 +29,7 @@ Sửa lỗi
 Cải tiến
 - Nhấn giữ mũi tên để tới trang đầu/cuối (#130)
 
-Tính năng mới
+Tính Năng Mới
 - Tùy chỉnh theme yêu thích (#116)
 - Thêm phím tắt thứ hai trên app bar (#180)
 - Nút làm mới trong menu chính
