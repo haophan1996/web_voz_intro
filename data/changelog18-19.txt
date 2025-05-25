@@ -1,0 +1,53 @@
+Changelog for Version 1.9:
+- Swipe left/right to show the Reply Button (#141,#152)
+
+Changelog for Version 1.8:
+
+Bug Fix  
+- Hide keyboard when dialog is dismissed (#89)
+- Prevent losing data on editor screen navigation
+- Optimize loading requests (#121)
+- Fix decode editor (#131)
+
+Adjust 
+- Refresh page when currently on page 1 (#103)
+- Add padding for sticky header (#101), divider article (#127)
+- Reorder keyboard toolbar
+- Move Reply button into the keyboard toolbar (#80)
+  (Applies when the AppBar is at the bottom)
+- Reduce thread title font size (#132)
+- Only show `Hello, user` when login (#123)
+
+Feature
+- Support for Android 9
+- Uploads image to Imgur (#96)
+- Option to save image to database upon viewing
+- Add full support for GIF animations",
+
+_________________________________________________________________________________________________________
+Thay đổi trong phiên bản 1.9:
+- Vuốt trái/phải để hiện nút reply khi viết bài (#141,#152)
+
+Thay đổi trong phiên bản 1.8:
+
+Sửa lỗi
+- Tự động ẩn bàn phím khi không dùng (#89)
+- Đảm bảo không mất dữ liệu khi ở trang viết bài
+- Tối ưu hóa load trang (#121)
+- Lỗi chữ chưa decode khi úp bài viết (#131)
+
+Cải tiến
+- Kéo để làm mới trang khi đang ở trang 1 (#103)
+- Thêm khoảng cách cho tiêu đề (đại sảnh, máy tính....)(#101)
+  và thêm dải phân cách mỗi bài viết (#127)
+- Sắp xếp lại thanh công cụ bàn phím
+- Dời nút Trả lời vô trong thanh công cụ bàn phím (#80)
+  (Áp dụng khi cái AppBar nằm dưới cùng)
+- Giảm cỡ chữ tiêu đề thread xuống chút (#132)
+- Chỉ hiển thị `Xin chào, người dùng` khi đăng nhâp (#123)
+
+Tính năng mới
+- Hổ trợ android 9
+- Upload hình ảnh trong bài viết (Imgur) (#96)
+- Lưu hình ảnh vô database, có thể dùng cho viết bài
+- Thêm hỗ trợ đầy đủ cho ảnh động GIF

@@ -1,59 +1,39 @@
 {
-    "latest_version": "1.9",
+    "latest_version": "2.0",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [
-"Changelog for Version 1.9:
-- Swipe left/right to show the Reply Button (#141,#152)
-
-Changelog for Version 1.8:
-
+"Changelog for Version 2.0:
 Bug Fix  
-- Hide keyboard when dialog is dismissed (#89)
-- Prevent losing data on editor screen navigation
-- Optimize loading requests (#121)
-- Fix decode editor (#131)
+- Ignored posts no longer visible
+- Fixed incorrect bookmark URL
+- Correct title when bookmarking threads
+
 
 Adjust 
-- Refresh page when currently on page 1 (#103)
-- Add padding for sticky header (#101), divider article (#127)
-- Reorder keyboard toolbar
-- Move Reply button into the keyboard toolbar (#80)
-  (Applies when the AppBar is at the bottom)
-- Reduce thread title font size (#132)
-- Only show `Hello, user` when login (#123)
+- Long press arrows to jump to first/last page (#130)
 
 Feature
-- Support for Android 9
-- Uploads image to Imgur (#96)
-- Option to save image to database upon viewing
-- Add full support for GIF animations",
+- Custom themes support (#116)
+- Second shortcut in the app bar (#180)
+- Refresh button in popup menu
+- Image host options: ImgBB, Imgur (#187, #136, #91)
+- Attachment support, long press for more options (#110)",
 
-
-"Thay đổi trong phiên bản 1.9:
-- Vuốt trái/phải để hiện nút reply khi viết bài (#141,#152)
-
-Thay đổi trong phiên bản 1.8:
+"Thay đổi trong phiên bản 2.0:
 
 Sửa lỗi
-- Tự động ẩn bàn phím khi không dùng (#89)
-- Đảm bảo không mất dữ liệu khi ở trang viết bài
-- Tối ưu hóa load trang (#121)
-- Lỗi chữ chưa decode khi úp bài viết (#131)
+- Không còn hiển thị bài viết đả chặn
+- Sửa lổi Link khi bookmark
+- Hiển thị đúng tiêu đề khi thêm bookmark
 
 Cải tiến
-- Kéo để làm mới trang khi đang ở trang 1 (#103)
-- Thêm khoảng cách cho tiêu đề (đại sảnh, máy tính....)(#101)
-  và thêm dải phân cách mỗi bài viết (#127)
-- Sắp xếp lại thanh công cụ bàn phím
-- Dời nút Trả lời vô trong thanh công cụ bàn phím (#80)
-  (Áp dụng khi cái AppBar nằm dưới cùng)
-- Giảm cỡ chữ tiêu đề thread xuống chút (#132)
-- Chỉ hiển thị `Xin chào, người dùng` khi đăng nhâp (#123)
+- Nhấn giữ mũi tên để tới trang đầu/cuối (#130)
 
 Tính năng mới
-- Hổ trợ android 9
-- Upload hình ảnh trong bài viết (Imgur) (#96)
-- Lưu hình ảnh vô database, có thể dùng cho viết bài
-- Thêm hỗ trợ đầy đủ cho ảnh động GIF"]
+- Tùy chỉnh theme yêu thích (#116)
+- Thêm phím tắt thứ hai trên app bar (#180)
+- Nút làm mới trong menu chính
+- Hổ trợ upload hình: ImgBB, Imgur (#187, #136, #91)
+- Hỗ trợ attachment, nhấn giữ để xem thêm tùy chọn (#110)"]
 }
