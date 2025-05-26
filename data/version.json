@@ -1,13 +1,21 @@
 {
-    "latest_version": "2.2",
+    "latest_version": "2.3",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [
-"Changelog for Version 2.2: 
+"Changelog for Version 2.2-2.3: 
 Bug Fix  
-- Add/improve Imgur support for emojis",
+- Add/improve Imgur support for emojis
+- Add error into debugLog when login failed
 
-"Thay đổi trong phiên bản 2.2: 
+Change
+- Double tap/Hold to edit emoji Name",
+
+"Thay đổi trong phiên bản 2.2-2.3: 
 Sửa lỗi
-- Logic thêm emoji bởi Imgur"]
+- Logic thêm emoji bởi Imgur
+- Thêm lổi vào debugLog khi đăng nhập sai,
+
+Thay đổi
+- Chạm/Nhấn 2 lần vào emoji để đổi tên"]
 }
