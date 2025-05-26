@@ -7,6 +7,7 @@
 Bug Fix  
 - Add/improve Imgur support for emojis
 - Add detail display issue on login failure
+- Fix crash on login with google when enter wrong code
 
 Change
 - Double tap/Hold to edit emoji Name",
@@ -14,7 +15,8 @@ Change
 "Thay đổi trong phiên bản 2.2-2.3: 
 Sửa lỗi
 - Logic thêm emoji bởi Imgur
-- Thêm lổi vào debugLog khi đăng nhập sai,
+- Thêm lổi vào debugLog khi đăng nhập sai
+- Sủa lỗi văng app khi đăng nhập với google sai code
 
 Thay đổi
 - Chạm/Nhấn 2 lần vào emoji để đổi tên"]
