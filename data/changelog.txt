@@ -1,3 +1,4 @@
+Version 2.1 - Add emoji from Imgur album
 Version 2.0 - Added custom themes support. Image host options. Attachment support.
 Version 1.9 - Bug fixes, UI improvements
 Version 1.8 - Support for Android 9. Upload image to Imgur and more
