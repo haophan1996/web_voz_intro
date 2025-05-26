@@ -6,7 +6,7 @@
 "Changelog for Version 2.2-2.3: 
 Bug Fix  
 - Add/improve Imgur support for emojis
-- Add error into debugLog when login failed
+- Add detail display issue on login failure
 
 Change
 - Double tap/Hold to edit emoji Name",
