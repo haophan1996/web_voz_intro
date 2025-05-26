@@ -1,51 +1,13 @@
 {
-    "latest_version": "2.1",
+    "latest_version": "2.2",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [
-"Changelog for Version 2.1:
-Adjust
-- Maximum emoji size is 100px
-
-New Feature
-- Parse album imgur into Imgur
-
-Changelog for Version 2.0:
+"Changelog for Version 2.2: 
 Bug Fix  
-- Ignored posts no longer visible
-- Fixed incorrect bookmark URL
-- Correct title when bookmarking threads
- 
-Adjust 
-- Long press arrows to jump to first/last page (#130)
+- Logic add emoji Imgur",
 
-New Feature
-- Custom themes support (#116)
-- Second shortcut in the app bar (#180)
-- Refresh button in popup menu
-- Image host options: ImgBB, Imgur (#187, #136, #91)
-- Attachment support, long press for more options (#110)",
-
-"Thay đổi trong phiên bản 2.1:
-Thay đổi
-- Biểu tượng cảm xúc không được lớn hơn 100px.
-
-New Feature
-- Láy hình trong album Imgur thành emoji
-
-Thay đổi trong phiên bản 2.0: 
+"Thay đổi trong phiên bản 2.2: 
 Sửa lỗi
-- Không còn hiển thị bài viết đả chặn
-- Sửa lổi Link khi bookmark
-- Hiển thị đúng tiêu đề khi thêm bookmark
-
-Thay đổi
-- Nhấn giữ mũi tên để tới trang đầu/cuối (#130)
-
-Tính Năng Mới
-- Tùy chỉnh theme yêu thích (#116)
-- Thêm phím tắt thứ hai trên app bar (#180)
-- Nút làm mới trong menu chính
-- Hổ trợ upload hình: ImgBB, Imgur (#187, #136, #91)
-- Hỗ trợ attachment, nhấn giữ để xem thêm tùy chọn (#110)"]
+- Logic thêm emoji bởi Imgur"]
 }
