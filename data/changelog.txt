@@ -1,3 +1,4 @@
+Version 2.4 - Fix login error code 27
 Version 2.3 - Fixed detail display issue on login failure. Double-tap an emoji to rename it.
 Version 2.2 - Add/improve Imgur support for emojis.
 Version 2.1 - Add emoji from Imgur album.

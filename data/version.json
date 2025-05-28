@@ -1,23 +1,16 @@
 {
-    "latest_version": "2.3",
+    "latest_version": "2.4",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [
 "Changelog for Version 2.2-2.3: 
 Bug Fix  
-- Add/improve Imgur support for emojis
-- Add detail display issue on login failure
-- Fix crash on login with google when enter wrong code
+- Fix login error code 27
 
 Change
 - Double tap/Hold to edit emoji Name",
 
 "Thay đổi trong phiên bản 2.2-2.3: 
 Sửa lỗi
-- Logic thêm emoji bởi Imgur
-- Thêm lổi vào debugLog khi đăng nhập sai
-- Sủa lỗi văng app khi đăng nhập với google sai code
-
-Thay đổi
-- Chạm/Nhấn 2 lần vào emoji để đổi tên"]
+- Sửa lỗi đăng nhâp, code 27"]
 }
