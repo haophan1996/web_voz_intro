@@ -10,22 +10,22 @@ Bug Fix
 New
 - Added one shortcut on appbar
 
-- Long touch on shortcut to edit Box Subforum
-- Long touch on Box Subforum to add launcher shortcut
+- Long touch shortcut (on appbar) to edit fxx
+- Long touch on Box-Subforum to add launcher shortcut
 - Long touch on Thread to save bookmark
 - Long touch/Double tab on emoji to edit name
-- Long touch on array icon to navigate first/last page
+- Long touch on arrow icon to navigate first/last page
 - Click on current page on appbar to set specific page to navigate",
 
 "Thay đổi trong phiên bản 2.5: 
 Sửa lỗi
-- Fix theme
+- Sửa giao diện
 
 Mới
 - Thêm shortcut trên appbar
 
-- Nhấn giữ shortcut để chỉnh sửa Box Subforum
-- Nhấn giữ Box Subforum để thêm lối tắt ra màn hình chính
+- Nhấn giữ shortcut trên thanh appbar để chỉnh sửa fxx
+- Nhấn giữ Box-Subforum để thêm shortcut trong launcher
 - Nhấn giữ Thread để lưu bookmark
 - Nhấn giữ hoặc nhấn đúp vào emoji để chỉnh sửa tên
 - Nhấn giữ biểu tượng mũi tên để đi đến trang đầu/cuối
