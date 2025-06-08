@@ -1,3 +1,4 @@
+Version 2.6 - Introducing a new feature: draft posts
 Version 2.5 - Fix theme
 Version 2.4 - Fix login error code 27
 Version 2.3 - Fixed detail display issue on login failure. Double-tap an emoji to rename it.

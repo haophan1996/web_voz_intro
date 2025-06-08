@@ -1,33 +1,30 @@
 {
-    "latest_version": "2.5",
+    "latest_version": "2.6",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [
-"Changelog for Version 2.5: 
-Bug Fix  
-- Fix theme
+    "changelog": [ "Update 2.6: 
+- Navigate to the quoted post
+- Font auto shrinks in the app bar #317
+- Adjusted dark background and text colors in Voz theme #316
+- Show number of people who reacted #311
+- Fixed some issues where text overflow due to being too long
+- Reworked theme and disabled signatures
+- Hide posts from ignored users
+- Added Spoiler button in the post editor
+- Added an icon in editor to indicate that swiping left/right reveals the REPLY button
+- Re-added NEON theme and introduced 2 new themes
+- New Feature: Draft post ",
 
-New
-- Added one shortcut on appbar
-
-- Long touch shortcut (on appbar) to edit fxx
-- Long touch on Box-Subforum to add launcher shortcut
-- Long touch on Thread to save bookmark
-- Long touch/Double tab on emoji to edit name
-- Long touch on arrow icon to navigate first/last page
-- Click on current page on appbar to set specific page to navigate",
-
-"Thay đổi trong phiên bản 2.5: 
-Sửa lỗi
-- Sửa giao diện
-
-Mới
-- Thêm shortcut trên appbar
-
-- Nhấn giữ shortcut trên thanh appbar để chỉnh sửa fxx
-- Nhấn giữ Box-Subforum để thêm shortcut trong launcher
-- Nhấn giữ Thread để lưu bookmark
-- Nhấn giữ hoặc nhấn đúp vào emoji để chỉnh sửa tên
-- Nhấn giữ biểu tượng mũi tên để đi đến trang đầu/cuối
-- Nhấn vào số trang hiện tại trên appbar để nhập số trang muốn đến"]
+"Cập nhật 2.6 
+ - Đi đến post khi bấm vào tên người được quote
+ - Font tự động thu nhỏ lại trên appbar #317
+ - Chỉnh sửa nền đen và màu chữ trên Voz theme #316
+ - Số lượng người ưng/gach trong reaction #311
+ - Sửa một số lỗi về chữ không nhìn thấy vì quá đài
+ - Sửa lại theme và tắt chữ ký
+ - Ẩn bài viết với người bị chặn
+ - Thêm nút Spoiler trong mục viết bài
+ - Thêm biểu tượng trong bài viết để người dùng biết lướt trái/phải để hiện nút REPLY
+ - Thêm lại NEON theme, và thêm 2 theme mới
+ - Chức năng mới bài viết nháp"]
 }
