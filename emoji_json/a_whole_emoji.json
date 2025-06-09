@@ -1,0 +1,164 @@
+{
+    "library": [
+        {
+            "sourceURL": "https://imgur.com/a/RK3VTic",
+            "sourceName": "abc",
+            "imageHeader": "https://i.imgur.com/iG1zB8L.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/ech_lai_ong.json",
+            "sourceName": "Ếch lai ong",
+            "imageHeader": "https://i.imgur.com/T2xqeAI.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/ech_map.json",
+            "sourceName": "Ếch-mập",
+            "imageHeader": "https://i.imgur.com/XwUSFCQ.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/ech_xanh.json",
+            "sourceName": "Ếch xanh",
+            "imageHeader": "https://i.imgur.com/YHs5f6H.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/en.json",
+            "sourceName": "Én",
+            "imageHeader": "https://i.imgur.com/A1lSgZ0.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/nuje6vv",
+            "sourceName": "genshin",
+            "imageHeader": "https://i.imgur.com/hR6R6Er.jpeg",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/meo_map_large.json",
+            "sourceName": "Mèo mập large",
+            "imageHeader": "https://i.imgur.com/1532bE4.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/pepe_2.json",
+            "sourceName": "Pepe-2",
+            "imageHeader": "https://i.imgur.com/4yPi1HB.jpeg",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/pepe_4.json",
+            "sourceName": "Pepe-4",
+            "imageHeader": "https://i.imgur.com/uwooUzw.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/pepe_vang_vang.json",
+            "sourceName": "Pepe-vàng-vẩu",
+            "imageHeader": "https://i.imgur.com/gulEHPV.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/pepe.json",
+            "sourceName": "Pepe",
+            "imageHeader": "https://i.imgur.com/YHs5f6H.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/qoobee_agapi_2.json",
+            "sourceName": "Qoobee Agapi 2",
+            "imageHeader": "https://i.imgur.com/xCdphRJ.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/shiba_gif.json",
+            "sourceName": "Shiba-gif",
+            "imageHeader": "https://i.imgur.com/yTo1ZI1.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/thang_bua.json",
+            "sourceName": "Thằng-bựa",
+            "imageHeader": "https://i.imgur.com/yWK4nd1.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/tho_bay_mau.json",
+            "sourceName": "Thỏ bảy màu",
+            "imageHeader": "https://i.imgur.com/L3ecsFg.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/tho_cute.json",
+            "sourceName": "thỏ cute",
+            "imageHeader": "https://i.imgur.com/qZ3FC5V.jpeg",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/voz_bua.json",
+            "sourceName": "Voz-Bựa",
+            "imageHeader": "https://i.imgur.com/1xK3bm3.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/voz-old-icon-1-NW771qM",
+            "sourceName": "VOZ old",
+            "imageHeader": "https://i.imgur.com/vNcyWNN.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/vozer_no.json",
+            "sourceName": "Voz nơ",
+            "imageHeader": "https://i.imgur.com/vfDb7lX.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://haophan1996.github.io/web_voz_intro/emoji_json/white_radish.json",
+            "sourceName": "White-Radish",
+            "imageHeader": "https://i.imgur.com/TdkTD3l.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        }
+    ]
+}
