@@ -2,29 +2,19 @@
     "latest_version": "2.6",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 2.6: 
-- Navigate to the quoted post
-- Font auto shrinks in the app bar #317
-- Adjusted dark background and text colors in Voz theme #316
-- Show number of people who reacted #311
-- Fixed some issues where text overflow due to being too long
-- Reworked theme and disabled signatures
-- Hide posts from ignored users
-- Added Spoiler button in the post editor
-- Added an icon in editor to indicate that swiping left/right reveals the REPLY button
-- Re-added NEON theme and introduced 2 new themes
-- New Feature: Draft post ",
+    "changelog": [ "Update 2.7: 
+- Fixed colors of some buttons in the Voz theme.
+- Fixed an issue where draft posts showed as null.
+- Display only images that were just uploaded in the editor..
+- Added option to display other users’ signatures.
+- Added option to enable first/last page buttons in the app bar (experimental).
+- Added DNS support — enable it only if you experience slow loading.",
 
-"Cập nhật 2.6 
- - Đi đến post khi bấm vào tên người được quote
- - Font tự động thu nhỏ lại trên appbar #317
- - Chỉnh sửa nền đen và màu chữ trên Voz theme #316
- - Số lượng người ưng/gach trong reaction #311
- - Sửa một số lỗi về chữ không nhìn thấy vì quá đài
- - Sửa lại theme và tắt chữ ký
- - Ẩn bài viết với người bị chặn
- - Thêm nút Spoiler trong mục viết bài
- - Thêm biểu tượng trong bài viết để người dùng biết lướt trái/phải để hiện nút REPLY
- - Thêm lại NEON theme, và thêm 2 theme mới
- - Chức năng mới bài viết nháp"]
+"Cập nhật 2.7:
+- Sửa màu một số nút trong giao diện Voz
+- Sửa lỗi khi bản nháp bài viết hiển thị là null.
+- Chỉ hiển thị những hình ảnh vừa mới tải lên trong viết bài viết.
+- Thêm tùy chọn hiển thị chữ ký của người dùng khác
+- Thêm tùy chọn bật nút trang đầu/cuối trên thanh appbar (đang thử nghiệm)
+- Thêm hỗ trợ DNS — chỉ bật nếu bạn gặp tình trạng tải chậm"]
 }
