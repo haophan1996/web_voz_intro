@@ -5,7 +5,7 @@
     "changelog": [ "Update 2.7: 
 - Fixed colors of some buttons in the Voz theme.
 - Fixed an issue where draft posts showed as null.
-- Display only images that were just uploaded in the editor..
+- Display only images that were just uploaded in the editor.
 - Added option to display other users` signatures.
 - Added option to enable first/last page buttons in the app bar (experimental).
 - Added DNS support — enable it only if you experience slow loading.",
