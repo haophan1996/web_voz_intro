@@ -1,20 +1,20 @@
 {
-    "latest_version": "2.7",
+    "latest_version": "2.8",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 2.7: 
-- Fixed colors of some buttons in the Voz theme.
-- Fixed an issue where draft posts showed as null.
-- Display only images that were just uploaded in the editor.
-- Added option to display other users` signatures.
-- Added option to enable first/last page buttons in the app bar (experimental).
-- Added DNS support — enable it only if you experience slow loading.",
+    "changelog": [ "Update 2.8: 
+- New Features: New posts - Logout current account - adjust font size (posts)
+- Added Trending Content and Latest Posts to the Home screen
+- Added Ignore/Following page in (Hello, user screen)
+- Blockquote text color is now removed on the first page of posts to enhance readability, especially in Diembao
+- Fixed and changed AppBar button icons
+- Fixed navigation bar not syncing with theme",
 
-"Cập nhật 2.7:
-- Sửa màu một số nút trong giao diện Voz
-- Sửa lỗi khi bản nháp bài viết hiển thị là null.
-- Chỉ hiển thị những hình ảnh vừa mới tải lên trong viết bài viết.
-- Thêm tùy chọn hiển thị chữ ký của người dùng khác
-- Thêm tùy chọn bật nút trang đầu/cuối trên thanh appbar (đang thử nghiệm)
-- Thêm hỗ trợ DNS — chỉ bật nếu bạn gặp tình trạng tải chậm"]
+"Cập nhật 2.8:
+- Tính năng mới: Bài viết mới - Đăng xuất tài khoản - Điều chỉnh cỡ chữ (bài viết)
+- Đã thêm Trending Content và Bài viết mới nhất vào màn hình Trang chủ
+- Đã thêm trang Ignored/Following trong màn hình (Xin chào, người dùng)
+- Đã bỏ màu chữ trong blockquote ở trang đầu tiên của bài viết để tăng khả năng đọc, đặc biệt trong mục Điểm báo
+- Đã sửa và thay đổi biểu tượng nút trên AppBar
+- Đã sửa lỗi thanh điều hướng không đồng bộ với giao diện (theme)"]
 }

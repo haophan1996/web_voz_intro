@@ -1,3 +1,4 @@
+Version 2.8 - New Features: New posts - Logout current account - adjust font size (posts)
 Version 2.7 - Added DNS support — enable only if you experience slow loading.
 Version 2.6 - Introducing a new feature: draft posts
 Version 2.5 - Fix theme
