@@ -1,3 +1,4 @@
+Version 3.0 - Bug fix.
 Version 2.9 - Display more options when long press on thread
 Version 2.8 - New Features: New posts, Logout current account, adjust font size (posts)
 Version 2.7 - Added DNS support — enable only if you experience slow loading.
