@@ -2,7 +2,9 @@
     "latest_version": "2.8",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 2.8: 
+    "changelog": [ "Update 2.8 - 2.9: 
+- Fix error when reply a post
+- Thread: Long press shows options menu instead of adding bookmark directly.
 - New Features: New posts - Logout current account - adjust font size (posts)
 - Added Trending Content and Latest Posts to the Home screen
 - Added Ignore/Following page in (Hello, user screen)
@@ -10,7 +12,9 @@
 - Fixed and changed AppBar button icons
 - Fixed navigation bar not syncing with theme",
 
-"Cập nhật 2.8:
+"Cập nhật 2.8 - 2.9:
+- Sửa lỗi khi bấm vào reply
+- Thread: Nhấn giữ sẽ hiện menu tùy chọn thay vì thêm bookmark
 - Tính năng mới: Bài viết mới - Đăng xuất tài khoản - Điều chỉnh cỡ chữ (bài viết)
 - Đã thêm Trending Content và Bài viết mới nhất vào màn hình Trang chủ
 - Đã thêm trang Ignored/Following trong màn hình (Xin chào, người dùng)
