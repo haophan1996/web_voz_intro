@@ -1,26 +1,20 @@
 {
-    "latest_version": "3.0",
+    "latest_version": "3.1",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 2.8 - 3.0: 
-- Fix error url
-- Fix error when reply a post
-- Thread: Long press shows options menu instead of adding bookmark directly.
-- New Features: New posts - Logout current account - adjust font size (posts)
-- Added Trending Content and Latest Posts to the Home screen
-- Added Ignore/Following page in (Hello, user screen)
-- Blockquote text color is now removed on the first page of posts to enhance readability, especially in Diembao
-- Fixed and changed AppBar button icons
-- Fixed navigation bar not syncing with theme",
+    "changelog": [ "Update 3.1: 
+- Added a navigation drawer for access to some features. (experimental)
+- Introduced an option to display the Reply button next to the toolbar.
+- Fixed a bug that prevented users from reacting to posts.
+- Correct Voz Emoji :feel_gode: -> :feel_good: .
+- Increased font weight for better readability.
+- Enabled long-press on Whats New or swipe right to open the navigation drawer.",
 
-"Cập nhật 2.8 - 3.0:
-- Sửa lỗi không tìm thấy url
-- Sửa lỗi khi bấm vào reply
-- Thread: Nhấn giữ sẽ hiện menu tùy chọn thay vì thêm bookmark
-- Tính năng mới: Bài viết mới - Đăng xuất tài khoản - Điều chỉnh cỡ chữ (bài viết)
-- Đã thêm Trending Content và Bài viết mới nhất vào màn hình Trang chủ
-- Đã thêm trang Ignored/Following trong màn hình (Xin chào, người dùng)
-- Đã bỏ màu chữ trong blockquote ở trang đầu tiên của bài viết để tăng khả năng đọc, đặc biệt trong mục Điểm báo
-- Đã sửa và thay đổi biểu tượng nút trên AppBar
-- Đã sửa lỗi thanh điều hướng không đồng bộ với giao diện (theme)"]
+"Cập nhật 3.1:
+- Đã thêm navigation drawer để truy cập nhanh một số tính năng (đang thử nghiệm).
+- Đã thêm tùy chọn hiển thị nút Trả lời bên cạnh thanh công cụ.
+- Sửa lỗi người dùng không tương tác được với bài viết (ví dụ reaction).
+- Sửa lỗi biểu tượng cảm xúc Voz :feel_gode: -> :feel_good:.
+- Tăng độ đậm của phông chữ để dễ đọc hơn.
+- Nhấn giữ trên WhatsNew hoặc vuốt sang phải để mở thanh điều hướng."]
 }
