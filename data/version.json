@@ -5,7 +5,7 @@
     "changelog": [ "Update 3.2: 
 - Fixed font size not applying correctly.
 - Fixed missing thread ID in attachments
-- Move dialog down little bit
+- Move gotoPage dialog down little bit
 - Added more options on long-pressing a box
 - Added new image upload host: AnhMoe
 - Added Latest Activity screen to the drawer",
@@ -13,8 +13,8 @@
 "Cập nhật 3.2:
 - Sửa lỗi kích thước chữ không thay đổi khi chỉnh size.
 - Thêm tùy chon copy url khi đè lên BOX
-- Di chuyển dialog đi tới trường xuống một chút
+- Di chuyển dialog (Đi tới trang) xuống một chút
 - Sửa lỗi không úp được attachment vì thiếu ID
-- Đả thêm úp hình ảnh trong bài viết dung AnhMoe
-- Thêm Latest Activity trong thành điều hướng."]
+- Đả thêm úp hình ảnh trong bài viết dùng AnhMoe
+- Thêm Latest Activity trong thanh điều hướng."]
 }
