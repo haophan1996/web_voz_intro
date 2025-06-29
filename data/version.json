@@ -1,20 +1,20 @@
 {
-    "latest_version": "3.1",
+    "latest_version": "3.2",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 3.1: 
-- Added a navigation drawer for access to some features. (experimental)
-- Introduced an option to display the Reply button next to the toolbar.
-- Fixed a bug that prevented users from reacting to posts.
-- Correct Voz Emoji :feel_gode: -> :feel_good: .
-- Increased font weight for better readability.
-- Enabled long-press on Whats New or swipe right to open the navigation drawer.",
+    "changelog": [ "Update 3.2: 
+- Fixed font size not applying correctly.
+- Fixed missing thread ID in attachments
+- Move dialog down little bit
+- Added more options on long-pressing a box
+- Added new image upload host: AnhMoe
+- Added Latest Activity screen to the drawer",
 
-"Cập nhật 3.1:
-- Đã thêm navigation drawer để truy cập nhanh một số tính năng (đang thử nghiệm).
-- Đã thêm tùy chọn hiển thị nút Trả lời bên cạnh thanh công cụ.
-- Sửa lỗi người dùng không tương tác được với bài viết (ví dụ reaction).
-- Sửa lỗi biểu tượng cảm xúc Voz :feel_gode: -> :feel_good:.
-- Tăng độ đậm của phông chữ để dễ đọc hơn.
-- Nhấn giữ trên WhatsNew hoặc vuốt sang phải để mở thanh điều hướng."]
+"Cập nhật 3.2:
+- Sửa lỗi kích thước chữ không thay đổi khi chỉnh size.
+- Thêm tùy chon copy url khi đè lên BOX
+- Di chuyển dialog đi tới trường xuống một chút
+- Sửa lỗi không úp được attachment vì thiếu ID
+- Đả thêm úp hình ảnh trong bài viết dung AnhMoe
+- Thêm Latest Activity trong thành điều hướng."]
 }
