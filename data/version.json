@@ -1,18 +1,20 @@
 {
-    "latest_version": "3.3",
+    "latest_version": "3.4",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 3.3: 
+    "changelog": [ "Update 3.3-3.4: 
 - Added Similar Threads: tap title (app bar expanded) or long press (collapsed).
 - Added Watched threads/forums/new feed/thread started/thread with post/thread with no replies
 - Added Unlimited Thread Scrolling ( beta )
 - User now can create thread/inbox
-- Fix placeholder of emoji not disappear after success load",
+- Fix placeholder of emoji not disappear after success load
+- Fix app crash when create inbox.",
 
-"Cập nhật 3.3:
+"Cập nhật 3.3-3.4:
 - Đã thêm Chủ đề tương tự: Chạm tiêu đề (khi thanh công cụ mở rộng) hoặc nhấn giữ (khi thu gọn).
 - Đả thêm phần Watched threads/forums/new feed/thread started/thread with post/thread with no replies
 - Đả thêm ghép trang trong Thread ( beta )
 - Người dùng đã có thể tạo thread/inbox
-- Sửa lỗi emoji không hiển thị đúng sau khi tải xong."]
+- Sửa lỗi emoji không hiển thị đúng sau khi tải xong.
+- Sữa lỗi văng app khi tạo inbox."]
 }
