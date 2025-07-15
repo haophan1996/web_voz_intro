@@ -1,3 +1,4 @@
+Version 3.5 - New feature: Emoji library
 Version 3.4 - Fix crash app
 Version 3.3 - User now can create thread/inbox
 Version 3.2 - Added new image upload host: AnhMoe
