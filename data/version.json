@@ -1,16 +1,10 @@
 {
-    "latest_version": "3.6",
+    "latest_version": "3.7",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 3.6: 
-- Reworked home screen (removed sub-box in thread screen)
-- Changed font style
-- Added ability to create inbox from user profile
-- Disabled pinch-to-zoom in thread view screen",
+    "changelog": [ "Update 3.7: 
+- Add thread title on appbar and in editor",
 
-"Cập nhật 3.6:
-- Thiết kế lại màn hình chính (loại bỏ hộp con trong màn hình chủ đề)
-- Đã thay đổi kiểu chữ
-- Đã thêm khả năng tạo hộp thư từ trang cá nhân người dùng
-- Đã tắt tính năng thu phóng bằng hai ngón trong màn hình xem chủ đề"]
+"Cập nhật 3.7:
+- Thêm tiêu đề trên appbar và trong mục viết bài"]
 }
