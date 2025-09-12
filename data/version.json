@@ -3,9 +3,9 @@
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
     "changelog": [ "Update 3.8: 
-- Change background for reaction bar.
-- Stop showing thread that user ignored.
-- Added Avatar in thread list.",
+- Changed background for the reaction bar.
+- Stopped showing threads that the user ignored.
+- Added avatars in the thread list.",
 
 "Cập nhật 3.8:
 - Chỉnh sủa background ở trong react bar.
