@@ -1,40 +1,17 @@
 {
-    "latest_version": "4.1",
+    "latest_version": "4.2",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.1: 
+    "changelog": [ "Update 4.2: 
 New Features:
- - 🔥 Continuous Thread View (v2.0), it might not fully support all tags and features
- - 🫨 App bar menu now supports press-and-drag for faster selection.
- - Support multiple account (Beta)
- - Thread open directly in the app from browser (turn off in Settings > Apps > VozVNAPP).
- - Custom fonts and watch thread options available in the Thread screen.
- - Filter thread available in menu
- - Improved the UI on several screens.
- - App bar now permanently moved to the bottom.
- - Long press on Box to add shortcut then open drawer (swipe right) to native shortcut
- - 🔥 Swipe up/down to dismiss Image Viewer
- - ❌ Removed Instagram-style swipe gesture
- - 🔴 Fixed bugs and improved the search screen.
- - 🔴 Fixed 2-Step Verification dialog bug.
- - 🔴 Fixed AppBar padding issue on Android 9 and 10
- - Minor bug fixes and stability improvements",
+- Added a YouTube video player for native views.
+- Added a default forums box that appears upon app launch.
+- Fixed an issue where new replies were not displaying correctly in native threads.
+ ",
 
-"Cập nhật 4.1:
+"Cập nhật 4.2:
 Tính năng mới:
-- 🔥 Đọc thread liền mạch (v2.0), mấy thẻ cao cấp với video embed có khi bị nerf chưa full
-- 🫨 Nút menu trên appbar hỗ trợ nhấn và kéo để lựa chọn nhanh hơn.
-- Chuyển đổi sang tài khoản khác (Beta)
-- Bấm vào thread trên trình duyệt sẻ mở thẳng vào app -> (tắt tính năng này trong Cài đặt > Ứng dụng > VozVNAPP).
-- Tùy chọn phông chữ và theo dõi chủ đề trong màn hình xem bài viết.
-- Cải thiện giao diện cho một số màn hình.
-- Bộ lọc chủ đề có sẵn trong menu
-- AppBar giờ cố định ở dưới màn hình.
-– Nhấn giữ vào Box để thêm shortcut, sau đó mở ngăn kéo (vuốt sang phải) để truy cập shortcut
-- 🔥 Vuốt lên/xuống để thoát khỏi trình xem ảnh.
-- ❌ Đã loại bỏ cử chỉ vuốt kiểu Instagram.
-- 🔴 Sửa lỗi và cải thiện màn hình tìm kiếm.
-- 🔴 Sửa lỗi trong hộp thoại xác minh 2 bước.
-- 🔴 Sửa lỗi canh lề AppBar trên Android 9 và 10.
-- Minor bug fixes and stability improvements"]
+- Bổ sung xem video YouTube trực tiếp (Native).
+- Thêm tùy chọn cài đặt chuyên mục mặc định khi mở ứng dụng.
+- Sửa lỗi reply không hiển thị chính xác trong đọc thread liền mạch."]
 }
