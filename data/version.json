@@ -1,8 +1,8 @@
 {
-    "latest_version": "4.0",
+    "latest_version": "4.1",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.0: 
+    "changelog": [ "Update 4.1: 
 New Features:
  - 🔥 Continuous Thread View (v2.0), it might not fully support all tags and features
  - 🫨 App bar menu now supports press-and-drag for faster selection.
@@ -17,9 +17,10 @@ New Features:
  - ❌ Removed Instagram-style swipe gesture
  - 🔴 Fixed bugs and improved the search screen.
  - 🔴 Fixed 2-Step Verification dialog bug.
- - 🔴 Fixed AppBar padding issue on Android 9 and 10",
+ - 🔴 Fixed AppBar padding issue on Android 9 and 10
+ - Minor bug fixes and stability improvements",
 
-"Cập nhật 4.0:
+"Cập nhật 4.1:
 Tính năng mới:
 - 🔥 Đọc thread liền mạch (v2.0), mấy thẻ cao cấp với video embed có khi bị nerf chưa full
 - 🫨 Nút menu trên appbar hỗ trợ nhấn và kéo để lựa chọn nhanh hơn.
@@ -34,5 +35,6 @@ Tính năng mới:
 - ❌ Đã loại bỏ cử chỉ vuốt kiểu Instagram.
 - 🔴 Sửa lỗi và cải thiện màn hình tìm kiếm.
 - 🔴 Sửa lỗi trong hộp thoại xác minh 2 bước.
-- 🔴 Sửa lỗi canh lề AppBar trên Android 9 và 10."]
+- 🔴 Sửa lỗi canh lề AppBar trên Android 9 và 10.
+- Minor bug fixes and stability improvements"]
 }

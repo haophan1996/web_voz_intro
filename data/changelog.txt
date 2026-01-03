@@ -1,3 +1,4 @@
+Version 4.1 - Minor bug fixes and stability improvements
 Version 4.0 - Endless scroll for Thread view
 Version 3.9 - Bug fix.
 Version 3.8 - Added Avatar in thread list
