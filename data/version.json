@@ -1,15 +1,16 @@
 {
-    "latest_version": "4.3.2",
+    "latest_version": "4.3.5",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.3.2: 
-New Features:
-- Bring back quick shortcut on appbar.
-- Auto check update (only install from GGPlay).
- ",
+    "changelog": [ "Update 4.3.5:  
+- Add notification icon to app bar (Option in settings).
+- Move Go-to-Box-ID to drawer (swipe right to open).
+- Support attachments in native threads.
+- Improve parsing for native threads.",
 
-"Cập nhật 4.3.2:
-Tính năng mới:
-- Đem shortcut trở lại trên appbar.
-- Tự động kiểm trả update (chỉ cài từ GGPlay)."]
+"Cập nhật 4.3.5:
+- Thêm biểu tượng thông báo vào thanh ứng dụng (app bar) (Bật trong cài đặt).
+- Chuyển Go-to-Box-ID vào menu ngăn kéo (vuốt sang phải để mở).
+- Hổ trợ thẻ attachment trong đọc liền mạch
+- Cải thiện phân tích thẻ trong đọc liền mạch."]
 }
