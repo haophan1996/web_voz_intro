@@ -1,3 +1,4 @@
+Version 4.5 - Added a Tiktok video player for native views.
 Version 4.3.5 - Support attachments in native threads.
 Version 4.3.2 - Auto check update (only install from GGPlay)
 Version 4.2 - Added a YouTube video player for native views.
