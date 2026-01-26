@@ -1,14 +1,14 @@
 {
-    "latest_version": "3.8",
+    "latest_version": "4.4",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 3.8: 
-- Changed background for the reaction bar.
-- Stopped showing threads that the user ignored.
-- Added avatars in the thread list.",
+    "changelog": [ "Update 4.4:  
+- Fix crash when click on attachment.
+- Support embed Tiktok video for native threads.
+- Minor bug fixes and stability improvements.",
 
-"Cập nhật 3.8:
-- Chỉnh sủa background ở trong react bar.
-- Không hiển thị thread của người dùng đã ignore.
-- Thêm avatar trong danh sách thread."]
+"Cập nhật 4.4:
+- Sửa lỗi văng app khi bấm vào attachment
+- Hổ trợ Tiktok video trong đọc liền mạch
+- Sửa một số lỗi nhỏ và cải thiện độ ổn định."]
 }

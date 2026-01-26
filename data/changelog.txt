@@ -1,3 +1,10 @@
+Version 4.5 - Added a Tiktok video player for native views.
+Version 4.3.5 - Support attachments in native threads.
+Version 4.3.2 - Auto check update (only install from GGPlay)
+Version 4.2 - Added a YouTube video player for native views.
+Version 4.1 - Minor bug fixes and stability improvements
+Version 4.0 - Endless scroll for Thread view
+Version 3.9 - Bug fix.
 Version 3.8 - Added Avatar in thread list
 Version 3.7 - Add thread title on appbar
 Version 3.6 - Revamp home screen
