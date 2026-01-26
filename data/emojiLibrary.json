@@ -1,9 +1,94 @@
 {
     "library": [
         {
+            "sourceURL": "https://imgur.com/a/bananos-hcwjX37",
+            "sourceName": "Bananos",
+            "imageHeader": "https://i.imgur.com/w6XTgM8.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/capoo-YiwQnNs",
+            "sourceName": "Capoo",
+            "imageHeader": "https://i.imgur.com/KYQflMA.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/capoo-2-z77RnPt",
+            "sourceName": "Capoo 2",
+            "imageHeader": "https://i.imgur.com/8EmuzNX.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/v5mGRn1",
+            "sourceName": "Capoo 3",
+            "imageHeader": "https://i.imgur.com/I7WVia2.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/edALnI9",
+            "sourceName": "Capoo 4",
+            "imageHeader": "https://i.imgur.com/Q8iVWJR.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
             "sourceURL": "https://imgur.com/a/bad-dog-ch7vDH4",
             "sourceName": "Cho' damduc",
             "imageHeader": "https://i.imgur.com/lFaOEd3.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/donut-0bywn4I",
+            "sourceName": "Donut",
+            "imageHeader": "https://i.imgur.com/yeI0nWY.gif",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },{
+            "sourceURL": "https://imgur.com/a/mon-YrxsXkT#7Kq51JJ",
+            "sourceName": "Mon",
+            "imageHeader": "https://i.imgur.com/7Kq51JJ.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },{
+            "sourceURL": "https://imgur.com/a/mon-v4-Gon66Ry#OyaTdp6",
+            "sourceName": "Mon 2",
+            "imageHeader": "https://i.imgur.com/Wvxbdqh.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },{
+            "sourceURL": "https://imgur.com/a/monv3-xKL8PCI#i2ot6q1",
+            "sourceName": "Mon 3",
+            "imageHeader": "https://i.imgur.com/i2ot6q1.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/chui-QkVFbTD",
+            "sourceName": "Pack dùng để chửi",
+            "imageHeader": "https://i.imgur.com/PwMbLyP.png",
+            "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
+            "isUnicode": false,
+            "version": 1
+        },
+        {
+            "sourceURL": "https://imgur.com/a/coin-etYJFe9",
+            "sourceName": "The Coin",
+            "imageHeader": "https://i.imgur.com/Je9hcRr.gif",
             "emojiClassName": "smilie fr-fic fr-dii fr-draggable",
             "isUnicode": false,
             "version": 1
