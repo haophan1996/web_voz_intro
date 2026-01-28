@@ -1,3 +1,4 @@
+Version 4.6 - Fixed font size for thread title
 Version 4.5 - Fixed minor bugs and improved stability
 Version 4.4 - Added a Tiktok video player for native views.
 Version 4.3.5 - Support attachments in native threads.

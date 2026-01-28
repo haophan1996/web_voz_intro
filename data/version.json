@@ -1,18 +1,12 @@
 {
-    "latest_version": "4.5",
+    "latest_version": "4.6",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.5:  
-- Added support for system font family selection.
-- Bring back Appbar top position (beta).
-- Able to watch box.
-- Improved parsing performance.
-- Fixed minor bugs and improved stability.",
+    "changelog": [ "Update 4.6:  
+- Fixed font size for thread title
+- Fixed status background for native threads",
 
-"Cập nhật 4.5:
-- Hỗ trợ chọn phông chữ theo hệ thống.
-- Mang lại tùy chọn vị trí Appbar ở phía trên (beta).
-- Thêm chức năng theo dõi Box.
-- Cải thiện parsing.
-- Sửa một số lỗi nhỏ và cải thiện độ ổn định."]
+"Cập nhật 4.6:
+- Sửa kích thước chử cho tên tiêu đề thread
+- Sửa lỗi background của status trong native thread"]
 }
