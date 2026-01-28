@@ -1,0 +1,27 @@
+Vozvn Child Safety Standards Policy
+
+Vozvn (com.haohphanwork.vozvn), developed by Hao Phan Work, is an app that crawls and displays publicly available content from the Voz forum (voz.vn). We do not create, post, or directly moderate the original forum content.
+Vozvn maintains a zero-tolerance policy against Child Sexual Abuse and Exploitation (CSAE) and strictly prohibits any form of child sexual abuse, exploitation, or related activities within the app.
+Prohibited in Vozvn:
+
+Any Child Sexual Abuse Material (CSAM) — including visual depictions (photos, videos, generated images), text, or other content involving the sexual exploitation or abuse of minors.
+Grooming, solicitation, enticement, or behavior that sexually exploits, endangers, or targets children.
+Any content or interactions that facilitate or depict child endangerment, abuse, or exploitation.
+
+Vozvn prohibits CSAE and CSAM in accordance with these standards and applicable laws. We may filter, block, or remove suspected violating content from display in the app upon obtaining actual knowledge of it.
+Enforcement:
+
+Content suspected of violating these prohibitions will be filtered or removed from Vozvn.
+Where required by law, confirmed CSAM will be reported to relevant authorities (e.g., National Center for Missing & Exploited Children – NCMEC – or local equivalents).
+
+Vozvn complies with all applicable child safety laws and regulations.
+Reporting Concerns:
+If you see content in Vozvn that may violate these standards:
+
+Use the in-app feedback/report feature.
+or Contact our child safety point of contact:
+Contac Form: https://voz.vn/#google_vignette
+
+You may also report directly to Voz forum administrators at https://voz.vn/.
+We review reports promptly and take appropriate action.
+Last updated: January 2026
