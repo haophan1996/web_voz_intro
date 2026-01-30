@@ -1,12 +1,10 @@
 {
-    "latest_version": "4.6",
+    "latest_version": "4.7",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.6:  
-- Fixed font size for thread title
-- Fixed status background for native threads",
+    "changelog": [ "Update 4.7:  
+- Minor bug fixes and stability improvements",
 
-"Cập nhật 4.6:
-- Sửa kích thước chử cho tên tiêu đề thread
-- Sửa lỗi background của status trong native thread"]
+"Cập nhật 4.7:
+- Sửa vài lỗi nhỏ, tăng độ ổn định."]
 }
