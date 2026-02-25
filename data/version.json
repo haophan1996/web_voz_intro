@@ -1,10 +1,26 @@
 {
-    "latest_version": "4.7",
+    "latest_version": "4.8",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.7:  
-- Minor bug fixes and stability improvements",
+    "changelog": [ "Update 4.8:  
+- Improved Oto fun, Voz theme and added Auto Voz dark/light
+- Improved gesture and layout for reaction button, menu appbar
+- Improved Blockquote and Spoiler tag for Endless view mode
+- Added full details for user profile screen
+- Added drag-and-drop functionality for emoji list reordering.
+- Now displaying Flickr images directly in posts and more.
+- Fixed padding media tag for Endless view mode
+- Fixed: Unable to log in with Google
+- Fixed an issue where Facebook and TikTok media links couldn't be inserted.",
 
-"Cập nhật 4.7:
-- Sửa vài lỗi nhỏ, tăng độ ổn định."]
+"Cập nhật 4.8:
+- Cải thiện giao diện Oto fun, Voz, và thêm theme tự động Voz dark/light.
+- Cải thiện thao tác vuốt cho nút Reaction, thanh menu ứng dụng.
+- Cải thiện cách hiển thị Blockquote và Spoiler cho chế độ cuộn vô tận.
+- Thêm thông tin chi tiết đầy đủ cho màn hình hồ sơ người dùng.
+- Thêm tính năng kéo thả để thay đổi thứ tự danh sách emoji.
+- Hiển thị ảnh Flickr trực tiếp trong bài đăng và hơn thế nữa.
+- Sửa khoảng cách đệm cho media tag trong chế độ cuộn vô tận.
+- Sửa lỗi không thể đăng nhập bằng Google.
+- Sửa lỗi chèn link media Facebook và TikTok."]
 }

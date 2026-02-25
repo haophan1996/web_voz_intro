@@ -1,3 +1,4 @@
+Version 4.8 - Improved Oto fun, Voz theme and added Auto Voz dark/light
 Version 4.7 - Minor bug fixes and stability improvements
 Version 4.6 - Fixed font size for thread title
 Version 4.5 - Fixed minor bugs and improved stability
