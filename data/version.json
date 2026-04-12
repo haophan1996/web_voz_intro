@@ -1,18 +1,14 @@
 {
-    "latest_version": "4.9",
+    "latest_version": "5.0",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 4.9:  
-- Fix thread item metadata overflow.
-- Fixed and improved theme.
-- Improved facebook embed.
-- Added leading padding and set color title for Blockquote.
-- Tap any image in thread to browse all thread images with swipe.",
+    "changelog": [ "Update 5.0:  
+ - Added preview post when long press on thread item.
+ - Added text/highlight color.
+ - Support multiple quote (endless only).",
 
-"Cập nhật 4.9:
-- Sửa lỗi tràn metadata của thread item.
-- Sửa và cải thiện giao diện theme.
-- Cải thiện nhúng Facebook.
-- Thêm padding và màu tiêu đề cho Blockquote.
-- Nhấn vào ảnh trong bài viết để xem và vuốt qua các ảnh khác."]
+"Cập nhật 5.0:
+ - Xem trước bài viết khi nhấn giữ tên bài viết.
+ - Đả thêm chọn màu, highlight trong mục viết bài.
+ - Hổ trợ nhiều quote (endless only)."]
     }

@@ -1,3 +1,4 @@
+Version 5.0 - Added preview post when long press on thread item
 Version 4.9 - Tap any image in thread to browse all thread images with swipe.
 Version 4.8 - Improved Oto fun, Voz theme and added Auto Voz dark/light
 Version 4.7 - Minor bug fixes and stability improvements
