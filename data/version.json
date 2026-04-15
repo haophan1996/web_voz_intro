@@ -1,14 +1,16 @@
 {
-    "latest_version": "5.1",
+    "latest_version": "5.2",
     "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
     "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 5.1:  
- - Added preview post when long press on thread item.
- - Added text/highlight color.
- - Support multiple quote (endless only).",
+    "changelog": [ "Update 5.2:  
+ - Breadcrumbs: Add back-stack breadcrumbs to the Menu Appbar.
+ - Reactions: Update reaction button: Tap to react, long-press for menu.
+ - Added Horizontal paging for Content (Beta)
+ - Fix missing tag HTML when edit post",
 
-"Cập nhật 5.1:
- - Xem trước bài viết khi nhấn giữ tên bài viết.
- - Đả thêm chọn màu, highlight trong mục viết bài.
- - Hổ trợ nhiều quote (endless only)."]
+"Cập nhật 5.2:
+ - Thêm điều hướng lịch sử vào Menu Appbar.
+ - Reactions: Ấn để phản hồi, nhấn giữ để chọn icon (Reactions).
+ - Xem thread: Thêm tính năng lướt ngang (Bản Beta).
+ - Sửa lỗi: Fix lỗi mất thẻ HTML khi sửa bài viết."]
     }
