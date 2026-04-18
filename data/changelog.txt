@@ -1,3 +1,4 @@
+Version 5.3 - Added Notification (beta)
 Version 5.2 - Breadcrumbs: Add back-stack breadcrumbs to the Menu Appbar.
 Version 5.1 - Minor bug fixes and stability improvements
 Version 5.0 - Added preview post when long press on thread item
