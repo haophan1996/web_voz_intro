@@ -1,3 +1,4 @@
+Version 5.5 - Added RSS Explorer page with pull-to-refresh.
 Version 5.4 - Added a screen where user can confirm anti bot (Cloudflare), only for user not in VietNam.
 Version 5.3 - Added Notification (beta)
 Version 5.2 - Breadcrumbs: Add back-stack breadcrumbs to the Menu Appbar.
