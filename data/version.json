@@ -1,16 +1,16 @@
 {
-    "latest_version": "5.4",
-    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
-    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-    "changelog": [ "Update 5.4:  
+   "latest_version": "5.5",
+   "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
+   "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
+   "changelog": [ "Update 5.5:  
  - Added a screen where user can confirm anti bot (Cloudflare), only for user not in VietNam.
- - Added a "Share Post" feature for Endless View mode.
- - Fixed an issue where "Click to Expand" was not displaying on the Samsung Galaxy S25 Ultra.
+ - Added a Share Post feature for Endless View mode.
+ - Fixed an issue where Click to Expand was not displaying on the Samsung Galaxy S25 Ultra.
  - Fixed a crash that occurred when tapping on a user's original quoted post.",
 
-"Cập nhật 5.4:
+"Cập nhật 5.5:
  - Thêm màn hình xác nhận chống bot (Cloudflare), chỉ dành cho người dùng ngoài Việt Nam.
  - Thêm tính năng chia sẻ bài viết cho chế độ xem Vô tận (Endless view).
- - Sửa lỗi mục "Nhấn để mở rộng" không hiển thị trên Samsung Galaxy S25U.
+ - Sửa lỗi mục Nhấn để mở rộng không hiển thị trên Samsung Galaxy S25U.
  - Xử lý lỗi crash khi người dùng nhấn vào nội dung trích dẫn gốc trong bài viết."]
-    }
+}
