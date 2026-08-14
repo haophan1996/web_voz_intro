@@ -1,16 +1,14 @@
 {
-   "latest_version": "5.5",
+   "latest_version": "5.6",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 5.5:  
-  - Fix avatar image keep reloading when scrolling.
-  - Added RSS Explorer page with pull-to-refresh.
-  - Support Vimeo for Native thread
-  - Improved performance and stability.",
+   "changelog": [ "Update 5.6:  
+- Fixed a crash when typing a username in search.
+- Added a floating button to jump to the first/last page when viewing a thread.
+- Improved unlimited scrolling for thread lists — pages now load continuously as you scroll, with pull-to-refresh and an auto-hiding app bar.",
 
-"Cập nhật 5.5:
-  - Sửa lỗi ảnh đại diện tải lại liên tục khi lướt.
-  - Thêm trang RSS Explorer với kéo xuống để làm mới.
-  - Thêm vimeo video (trong chế độ xem Vô tận).
-  - Cải thiện hiệu suất và độ ổn định."]
+"Cập nhật 5.6:
+- Sửa lỗi crash khi gõ tên người dùng trong tìm kiếm
+- Thêm nút nhảy nhanh về trang đầu/trang cuối khi xem thread
+- Cải thiện cuộn không giới hạn cho danh sách thread."]
 }
