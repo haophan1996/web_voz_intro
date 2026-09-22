@@ -1,3 +1,5 @@
+Version 5.8 - Fixed an issue where users could not log in
+Version 5.7 - Improve appbar
 Version 5.6 - Added a floating button to jump to the first/last page when viewing a thread.
 Version 5.5 - Added RSS Explorer page with pull-to-refresh.
 Version 5.4 - Added a screen where user can confirm anti bot (Cloudflare), only for user not in VietNam.
