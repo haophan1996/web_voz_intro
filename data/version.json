@@ -1,18 +1,18 @@
 {
-   "latest_version": "5.8",
+   "latest_version": "5.9",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 5.8: 
-- Fixed an app crash on the home screen
-- Fixed an issue where users could not log in
-- Added a Skip button for the notification banner on the home screen
-- Added two more shortcuts to the home screen
-- Added X span display inline",
+   "changelog": [ "Update 5.9:
+- New Imgur US upload option for users who can't reach Imgur
+- Removed imgur2 upload option
+- Choose 1–5 forum shortcuts on the Home appbar in Settings
+- Open New Posts from the Home appbar
+- Fixed marking notifications as read",
 
-"Cập nhật 5.8:
-- Đã sửa lỗi ứng dụng bị crash ở màn hình chính
-- Đã sửa lỗi người dùng không thể đăng nhập
-- Thêm nút Bỏ qua cho banner thông báo trên màn hình chính
-- Thêm hai shortcut mới trên màn hình chính
-- Hiển thị bài đăng X (Twitter) trực tiếp trong bài viết"]
+"Cập nhật 5.9:
+- Thêm lựa chọn upload ảnh Imgur US cho người không truy cập được Imgur
+- Bỏ lựa chọn upload imgur2
+- Chọn 1–5 box truy cập nhanh trên appbar trang chủ trong Cài đặt
+- Mở Bài viết mới từ appbar trang chủ
+- Sửa lỗi không đánh dấu đã đọc thông báo được"]
 }
