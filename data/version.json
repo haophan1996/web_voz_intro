@@ -1,18 +1,12 @@
 {
-   "latest_version": "5.9",
+   "latest_version": "6.0",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 5.9:
-- New Imgur US upload option for users who can't reach Imgur
-- Removed imgur2 upload option
-- Choose 1–5 forum shortcuts on the Home appbar in Settings
-- Open New Posts from the Home appbar
-- Fixed marking notifications as read",
+   "changelog": [ "Update 6.0:
+- Fixed replying in threads and direct messages
+- Fixed jumping to unread / linked posts",
 
-"Cập nhật 5.9:
-- Thêm lựa chọn upload ảnh Imgur US cho người không truy cập được Imgur
-- Bỏ lựa chọn upload imgur2
-- Chọn 1–5 box truy cập nhanh trên appbar trang chủ trong Cài đặt
-- Mở Bài viết mới từ appbar trang chủ
-- Sửa lỗi không đánh dấu đã đọc thông báo được"]
+"Cập nhật 6.0:
+- Sửa lỗi không trả lời được trong thread và tin nhắn
+- Sửa lỗi nhảy tới bài chưa đọc / bài được dẫn link"]
 }
