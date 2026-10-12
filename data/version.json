@@ -2,11 +2,13 @@
    "latest_version": "6.0",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 6.0:
+   "changelog": [ "Update 6.1:
+- Fixed notifications not being received
 - Fixed replying in threads and direct messages
 - Fixed jumping to unread / linked posts",
 
 "Cập nhật 6.0:
+- Sửa lỗi không nhận được thông báo
 - Sửa lỗi không trả lời được trong thread và tin nhắn
 - Sửa lỗi nhảy tới bài chưa đọc / bài được dẫn link"]
 }

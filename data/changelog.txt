@@ -1,3 +1,4 @@
+Version 6.1 - Fixed notifications not being received
 Version 6.0 - Fixed jumping to unread / linked posts
 Version 5.9 - New "Imgur US" upload option for users who can't reach Imgur
 Version 5.8 - Fixed an issue where users could not log in
