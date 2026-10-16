@@ -1,14 +1,12 @@
 {
-   "latest_version": "6.1",
+   "latest_version": "6.2",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 6.1:
-- Fixed notifications not being received
-- Fixed replying in threads and direct messages
-- Fixed jumping to unread / linked posts",
+   "changelog": [ "Update 6.2:
+- Fixed redirect to page Cloudflare verify
+- Added message signature",
 
-"Cập nhật 6.1:
-- Sửa lỗi không nhận được thông báo
-- Sửa lỗi không trả lời được trong thread và tin nhắn
-- Sửa lỗi nhảy tới bài chưa đọc / bài được dẫn link"]
+"Cập nhật 6.2:
+- Sửa lỗi tự đông vào trang cloudflare để xác nhận người thật
+- Đã thêm hiện chữ ký của người dùng trong bài viết"]
 }
