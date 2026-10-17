@@ -1,12 +1,12 @@
 {
-   "latest_version": "6.2",
+   "latest_version": "6.3",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 6.2:
-- Fixed redirect to page Cloudflare verify
-- Added message signature",
+   "changelog": [ "Update 6.3:
+- New: Announcements from the developer — a short banner when something's up (e.g. login issues), re-read them any time in Settings → Announcements 
+- Smooth transition when opening a thread or a user's profile.",
 
-"Cập nhật 6.2:
-- Sửa lỗi tự đông vào trang cloudflare để xác nhận người thật
-- Đã thêm hiện chữ ký của người dùng trong bài viết"]
+"Cập nhật 6.3:
+- Mới: Thông báo từ nhà phát triển — hiện banner ngắn khi có sự cố (vd: lỗi đăng nhập), xem lại bất cứ lúc nào trong Cài đặt → Thông báo từ ứng dụng 
+- Hiệu ứng chuyển cảnh mượt khi mở thread hoặc trang cá nhân."]
 }
