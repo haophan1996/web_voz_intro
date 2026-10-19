@@ -1,14 +1,20 @@
 {
-   "latest_version": "6.4",
+   "latest_version": "6.5",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 6.4:
-- New Feed page on Home with Hot, Trending, New and For you tabs.
-- Fixed: zoom reset when opening an image from a post.
-- Opening a thread no longer plays a transition animation.",
+   "changelog": [ "Update 6.5:
+- Support VozVN: buy the developer a coffee ($1 / $5 / $10) from the top of Settings.
+- Message to everyone ($2): send a message that every VozVN user sees for 24 hours.
+- Hot Threads widget: see what’s trending on voz right from your home screen. 
+- Backgrounds: choose Solid, Gradient, Glow or Dots. 
+- Feed styles: pick how the feed looks: Classic, News list, Soft tile or Text on image. 
+- New themes: AMOLED, Midnight, Matcha and Sakura.",
 
-"Cập nhật 6.4:
-- Thêm trang Bảng tin ở màn hình chính với các tab Hot, Trending, Mới và Dành cho bạn.
-- Sửa lỗi phóng to ảnh bị trả về mặc định khi mở ảnh từ bài viết.
-- Bỏ hiệu ứng chuyển cảnh khi mở chủ đề."]
+"Cập nhật 6.5:
+- Ủng hộ VozVN: mời dev ly cà phê ($1 / $5 / $10) ngay đầu Cài đặt.
+- Lời nhắn tới mọi người ($2): gửi một lời nhắn hiển thị cho mọi người dùng VozVN trong 24 giờ. 
+- Widget Thớt hot: xem thớt đang hot trên voz ngay ngoài màn hình chính.
+- Hình nền: chọn Đơn sắc, Chuyển màu, Phát sáng hoặc Chấm bi.
+- Kiểu Feed: chọn cách hiển thị Feed: Cổ điển, Danh sách tin, Ô mềm hoặc Chữ trên ảnh.
+- Theme mới: AMOLED, Midnight, Matcha và Sakura."]
 }
