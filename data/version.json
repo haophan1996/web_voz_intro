@@ -1,8 +1,11 @@
 {
-   "latest_version": "6.5",
+   "latest_version": "6.6",
    "update_url": "https://haophan1996.github.io/web_voz_intro/apk/vozvn.apk",
    "hash": "t7KuGKkg8WCe6lK8cvQT4L9EGFIbDpiJGqmibruyCsXlYYx18rdbL2KEwaMeofdibe2sZVBZNtrf7y8PopbarskTQlEcHpaV/ZIIkot1sEeuEU9F+Yk+RVCZjcmGvAKLdGm0hSsf+tXOMTizM8sMvQ==",
-   "changelog": [ "Update 6.5:
+   "changelog": [ "Update 6.6:
+- Page cache: pages are cached for 1 minute. Pull to refresh always gets the latest. You can turn this off in Settings → Storage & network.
+- The app reopens on the home page you were last on (Menu, Home, Feed or Explorer).
+- Pull to refresh in Notifications.
 - Support VozVN: buy the developer a coffee ($1 / $5 / $10) from the top of Settings.
 - Message to everyone ($2): send a message that every VozVN user sees for 24 hours.
 - Hot Threads widget: see what’s trending on voz right from your home screen. 
@@ -10,7 +13,10 @@
 - Feed styles: pick how the feed looks: Classic, News list, Soft tile or Text on image. 
 - New themes: AMOLED, Midnight, Matcha and Sakura.",
 
-"Cập nhật 6.5:
+"Cập nhật 6.6:
+- Bộ nhớ đệm trang: các trang được lưu tạm trong 1 phút. Kéo để làm mới luôn lấy bản mới nhất. Có thể tắt trong Cài đặt → Lưu trữ & mạng.
+- App mở lại đúng trang chủ bạn xem lần trước (Menu, Trang chủ, Feed hoặc Khám phá).
+- Kéo để làm mới trong Thông báo.
 - Ủng hộ VozVN: mời dev ly cà phê ($1 / $5 / $10) ngay đầu Cài đặt.
 - Lời nhắn tới mọi người ($2): gửi một lời nhắn hiển thị cho mọi người dùng VozVN trong 24 giờ. 
 - Widget Thớt hot: xem thớt đang hot trên voz ngay ngoài màn hình chính.

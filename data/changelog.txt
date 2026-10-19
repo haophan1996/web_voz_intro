@@ -1,3 +1,4 @@
+Version 6.6 - The app reopens on the home page you were last on (Menu, Home, Feed or Explorer).
 Version 6.5 - New themes: AMOLED, Midnight, Matcha and Sakura.
 Version 6.4 - New Feed page on Home with Hot, Trending, New and For you tabs.
 Version 6.3 - Smooth transition when opening a thread or a user's profile
